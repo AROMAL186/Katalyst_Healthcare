@@ -27,7 +27,7 @@ Clone the repository:
 sh
 Copy
 Edit
-git clone https://github.com/your-repo/brain-tumor-classifier.git
+git clone https://github.com/AROMAL186/Katalyst_Healthcare.git
 Install dependencies:
 sh
 Copy
